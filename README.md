@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **atulkashiv421/atulkashiv421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,6 @@ https://github.com/user-attachments/assets/c55a5c95-bdd6-4f26-b71b-617c5aa88d7b
   <img src="https://img.shields.io/badge/Language-C-blue" />
   <img src="https://img.shields.io/badge/Language-C++-brightgreen" />
   <img src="https://img.shields.io/badge/Language-C%23-purple" />
-  <img src="https://img.shields.io/badge/Language-Objective--C-lightgrey" />
   <img src="https://img.shields.io/badge/Language-Python-yellow" />
 </p>
 
@@ -40,7 +39,6 @@ https://github.com/user-attachments/assets/c55a5c95-bdd6-4f26-b71b-617c5aa88d7b
 | C            | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> |
 | C++          | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> |
 | C#           | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> |
-| Objective-C  | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Objective-C_Logo.svg" width="40"/> |
 | Python       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> |
 
 ---
@@ -54,7 +52,6 @@ And Python? Well, Python is just magic. 🪄
 
 ## 📦 Run It Yourself
 
-Each folder contains a simple `Hello, World!` example with instructions.
 
 🧪 See `README.md` in each subfolder for compile/run steps.
 
