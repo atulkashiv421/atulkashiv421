@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 https://github.com/user-attachments/assets/c55a5c95-bdd6-4f26-b71b-617c5aa88d7b
 
-<h1 align="center">👨‍💻 The C Family & Python Playground 🐍</h1>
+<h1 align="center">👨‍💻 The C Family & Python Playground🐍</h1>
 
 <p align="center">
   A curated collection of code examples in <strong>C</strong>, <strong>C++</strong>, <strong>C#</strong>, <strong>Objective-C</strong>, and <strong>Python</strong>.
